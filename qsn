@@ -1,0 +1,16 @@
+1) Create an account in AWS and configure a budget.
+2) Create MFA for authentication.
+3) Create IAM user giving full access of S3.
+4) Create a Private Bucket in AWS. Upload a file & checked by presigned URL that you access or not.
+5) Create a Public Bucket in AWS. Upload a file & give the necessary permission to check the file URL is working or not.
+6) Upload a static website on S3.
+7) Upload a static website in EC2 server.
+8) Deploy a project from local machine to GitHub and vice versa.
+9) Deploy a project from GitHub to EC2.
+10) Deploy a project from GitHub to EC2 by creating security new group and user data.
+11) Build scaling plans in AWS that balance load on different EC2 instances.
+12) Deploy and run project in AWS without using port.
+13) Create a WorkMail for your organization.
+14) Create an Elastic IP for an instance.
+15) Create serverless computing services.
+16) Manage Amazon DNS service and run project using domain name URL.
